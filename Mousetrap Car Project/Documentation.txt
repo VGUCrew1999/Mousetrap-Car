@@ -1,0 +1,7 @@
+A old high school project file created while designing mousetrap powered cars.
+It was created in Fall of 2016 in Autodesk Inventor and AutoCAD.
+The goal was to design the mousetrap cars and cut the shapes out of foam core board
+using a laser cutter, then hot glue the pieces together, with a mousetrap on top.
+A string with one end tied to the mousetrap was then wrapped around the rear axel of the car,
+which would make the car move when the trap was set off.
+The car would then be tested against designs from other groups.
